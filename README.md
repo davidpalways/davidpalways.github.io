@@ -6,7 +6,7 @@
  <br />
  January 2017 - May 2022
 
-### Work Experience
+### Professional Experience
 K&A Engineering Consulting, P.C.
 <br />
 Associate Electrical Engineer
