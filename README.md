@@ -1,8 +1,8 @@
 # Electrical Engineer
 ### Education
  Tribhuvan University, IOE, Purwanchal Campus
- Bachelor of Electrical Engineering, Control system and Power system
- Analysis · (January 2017 - May 2022)
+ Bachelor of Electrical Engineering
+ January 2017 - May 2022
 
 ### Work Experience
 K&A Engineering Consulting, P.C.
