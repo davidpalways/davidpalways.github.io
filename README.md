@@ -1,4 +1,4 @@
-# Electrical Engineer
+# **Electrical Engineer**
 ### Education
  Tribhuvan University, IOE, Purwanchal Campus
  <br />
