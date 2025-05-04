@@ -13,7 +13,9 @@ Associate Electrical Engineer
 <br />
 January 2024 - Present 
 
-## Contacts
+### Contacts
 Email: **davidpanday3@gmail.com**
 <br />
 linkedin: <https://www.linkedin.com/in/davidpalaways>
+
+
