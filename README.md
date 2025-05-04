@@ -15,5 +15,5 @@ January 2024 - Present
 
 ## Contacts
 Email: **davidpanday3@gmail.com**
-</br />
+<br />
 linkedin: <https://www.linkedin.com/in/davidpalaways>
