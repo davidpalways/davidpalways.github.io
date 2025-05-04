@@ -12,3 +12,6 @@ K&A Engineering Consulting, P.C.
 Associate Electrical Engineer
 <br />
 January 2024 - Present 
+
+## Contacts
+[Email:] (davidpanday3@gmail.com)
