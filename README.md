@@ -18,4 +18,9 @@ Email: **davidpanday3@gmail.com**
 <br />
 linkedin: <https://www.linkedin.com/in/davidpalaways>
 
+### Interests
+Power System Optimization
+<br />
+Renewable Energy Integration
+	<ins> </ins>
 
