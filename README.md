@@ -20,5 +20,5 @@ linkedin: <https://www.linkedin.com/in/davidpalaways>
 
 ### Interests
 Power System Optimization <br />
-Renewable Energy Integration
+Renewable Energy Integration 
 
