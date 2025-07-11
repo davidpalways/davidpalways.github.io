@@ -5,6 +5,12 @@
  Bachelor of Electrical Engineering
  <br />
  January 2017 - May 2022
+ 
+ ### Skills
+ AutoCAD Electrical
+ MATLAB
+ Proteus
+ PSIM
 
 ### Professional Experience
 K&A Engineering Consulting, P.C.
@@ -23,3 +29,8 @@ Power System Optimization <br />
 Renewable Energy Integration  <br/>
 Power System Stability
 
+#### Publications
+
+#### Conference Papers
+
+#### References
