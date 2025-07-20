@@ -7,10 +7,10 @@
  January 2017 - May 2022
  
  ### Skills
- AutoCAD Electrical
- MATLAB
- Proteus
- PSIM
+ AutoCAD Electrical <br />
+ MATLAB <br />
+ Proteus <br />
+ PSIM <br />
 
 ### Professional Experience
 K&A Engineering Consulting, P.C.
